@@ -10,7 +10,7 @@ tags:
   - sailpoint
   - okta
 ---
-This index is for all my credentials I have earned over the years. I hope my experience can help you on your journey!
+This index is for all my credentials I have earned over the years. I hope my experience of my trials and triumphs can help you on your journey!
 # Schools
 ### Western Governors University:
 
@@ -68,12 +68,16 @@ This index is for all my credentials I have earned over the years. I hope my exp
 
 [[Identity Security Leader]]
 
+[[IdentityIQ Associate]]
+
 ### Okta
 
-
+[[Okta Certified Professional Hands-On Configuration Exam]]
 ### CyberArk
 
+Defender
+Sentry
 ### Japanese Proficiency Language Test JLPT
 
-[[WIP JLPT N4]]
+[[JLPT N4]]
 

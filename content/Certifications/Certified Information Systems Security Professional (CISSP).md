@@ -3,6 +3,7 @@ tags:
   - isc2
   - iam
   - certification
+date:
 ---
 These are the resources I used to study for the CISSP. 
 > [Note] 

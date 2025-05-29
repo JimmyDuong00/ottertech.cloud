@@ -1,8 +1,8 @@
-Hi I'm Jimmy and I am a Cloud Security Engineer that is always striving for excellence.   
+Hi I'm Jimmy and I am a Security Engineer that is always striving for excellence.   
 
 I love creating infrastructure solutions according to best practices and making the cyberspace a more safe and secure experience.  
   
-From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations involved with renewable energy and education.
+From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations involved in medical, renewable energy generation, and education.
 
 I love to spend my time learning configuring cloud infrastructure and helping others do the same. 
 

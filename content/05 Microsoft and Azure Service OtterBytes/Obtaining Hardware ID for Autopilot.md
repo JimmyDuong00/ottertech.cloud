@@ -2,6 +2,7 @@
 tags:
   - azure
   - iam
+  - intune
 ---
 In order to onboard an endpoint device, we need to obtain the hardware ID of the device. 
 To begin, run PowerShell as Administrator:

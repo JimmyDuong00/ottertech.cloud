@@ -17,4 +17,5 @@ We can delete the .war file now
 
 ## Run Apache Server
 
-
+bin folder
+Run startup.bat
